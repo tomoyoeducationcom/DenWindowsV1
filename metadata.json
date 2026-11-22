@@ -1,0 +1,6 @@
+{
+  "name": "DenWindowsV1",
+  "description": "A functional Android desktop environment and launcher inspired by Windows 11++ with multi-window management, native app discovery, internal browser, file explorer, real terminal, and desktop utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
